@@ -2,3 +2,5 @@ lib/
 hooks/
 node_modules/
 platforms/
+*.js
+*.js.map
