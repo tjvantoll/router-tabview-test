@@ -1,0 +1,1 @@
+A quick example that shows how to build a multi-page NativeScript and Angular app that also uses the Angular Router.
